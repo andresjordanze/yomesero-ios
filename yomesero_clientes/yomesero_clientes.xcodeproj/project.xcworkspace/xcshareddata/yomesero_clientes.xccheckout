@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>02B6FAC2-B6AD-4FB0-989D-ABF1DEB2691E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>yomesero_clientes</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CFBD613E832EF48CB54EA32F58D2876BAF5D0B86</key>
+		<string>https://github.com/alexgunner/yomeseroIOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>yomesero_clientes.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CFBD613E832EF48CB54EA32F58D2876BAF5D0B86</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alexgunner/yomeseroIOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CFBD613E832EF48CB54EA32F58D2876BAF5D0B86</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CFBD613E832EF48CB54EA32F58D2876BAF5D0B86</string>
+			<key>IDESourceControlWCCName</key>
+			<string>yomeseroIOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
